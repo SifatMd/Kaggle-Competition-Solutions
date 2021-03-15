@@ -1,2 +1,2 @@
-# Kaggle-Competition-Beginners-Ed
-Solving Beginner Level Problems in [Kaggle](https://www.kaggle.com/).
+# Kaggle-Competition-Solutions
+Solving Competition Problems in [Kaggle](https://www.kaggle.com/).
